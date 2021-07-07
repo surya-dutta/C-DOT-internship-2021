@@ -1,0 +1,2 @@
+Modelling convolutional encoder and soft decision viterbi decoder on Simulink
+Parameters such as code rate and modulation schemes can be changed in the script file
