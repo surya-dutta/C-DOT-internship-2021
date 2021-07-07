@@ -1,0 +1,3 @@
+This is the implementation of a complete communication system.
+Channel encoding and decoding - 1/2 convolutional encoder and hard decision viterbi decoder.
+Noise channel - AWGN
